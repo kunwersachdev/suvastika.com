@@ -1,0 +1,98 @@
+media/about/leadership.jpeg
+media/about/WhatsApp Image 2026-05-16 at 12.33.02.jpeg
+media/product-images/BESS 10KVA  18KWh (3P-3P).jpg
+media/product-images/BESS 15KVA  18KWh (3P-3P).png
+media/product-images/BESS 30KVA  36KWh (3P-3P).webp
+media/product-images/ESS 10KVA  9KWh (1P-1P).jpg
+media/product-images/ESS 10KVA  9KWh (1P-1P).png
+media/product-images/ESS 15KVA  18KWh (1P-1P).jpg
+media/product-images/ESS 15KVA  18KWh (1P-1P).png
+media/product-images/Heavy Duty Online UPS 10.5KVA (IGBT).png
+media/product-images/Heavy Duty Online UPS 5KVA (IGBT).png
+media/product-images/Heavy Duty UPS 10.5KVA (IGBT) 3P-3P.png
+media/product-images/Heavy Duty UPS 10KVA (IGBT) 1P-1P.png
+media/product-images/Heavy Duty UPS 15KVA (IGBT) 1P-1P.png
+media/product-images/Heavy Duty UPS 15KVA (IGBT) 3P-3P.png
+media/product-images/Heavy Duty UPS 30KVA (IGBT) 3P-3P.jpg
+media/product-images/LiFePO4 Retrofit Battery 10 KW.png
+media/product-images/LiFePO4 Retrofit Battery 1280 Wh.png
+media/product-images/LiFePO4 Retrofit Battery 2.56 KWh.jpg
+media/product-images/LiFePO4 Retrofit Battery 2.56 KWh.png
+media/product-images/LiFePO4 Retrofit Battery 5.12 KWh.png
+media/product-images/Lift Inverter  ERD 10KVA.png
+media/product-images/Lift Inverter  ERD 15KVA.png
+media/product-images/Lift Inverter  ERD 20KVA.png
+media/product-images/Lift Inverter  ERD 30KVA.jpg
+media/product-images/Pure Sine Wave UPS 1050.png
+media/product-images/Pure Sine Wave UPS 1800.png
+media/product-images/Pure Sine Wave UPS 2300.png
+media/product-images/Pure Sine Wave UPS 850.png
+media/product-images/Pure Sine Wave UPS Li 1050 Combo.jpg
+media/product-images/Pure Sine Wave UPS Li 2500 Combo.jpg
+media/product-images/Pure Sine Wave UPS Li 2500 Combo.png
+media/product-images/Pure Sine Wave UPS Li 5500 Combo.jpg
+media/product-images/Pure Sine Wave UPS Li 5500 Combo.png
+media/product-images/Pure Sine Wave UPS With ATC 1350.png
+media/product-images/Pure Sine Wave UPS with ATC 2000.png
+media/product-images/Pure Sine Wave UPS with ATC 2500.jpg
+media/product-images/Pure Sine Wave UPS with ATC 2500.webp
+media/product-images/Pure Sine Wave UPS with ATC 3500.jpg
+media/product-images/Pure Sine Wave UPS with ATC 3500.webp
+media/product-images/Pure Sine Wave UPS with ATC 4000.jpg
+media/product-images/Pure Sine Wave UPS with ATC 4000.webp
+media/product-images/Pure Sine Wave UPS with ATC 5500.jpg
+media/product-images/Pure Sine Wave UPS with ATC 5500.webp
+media/product-images/Solar PCU 10KVA MPPT + LiFePO4 9 KWh.jpg
+media/product-images/Solar PCU 10KVA MPPT + LiFePO4 9 KWh.webp
+media/product-images/Solar PCU 10KVA MPPT.jpg
+media/product-images/Solar PCU 10KVA MPPT.webp
+media/product-images/Solar PCU 2500 MPPT + LiFePO4 2.56 KWh.jpg
+media/product-images/Solar PCU 2500 MPPT + LiFePO4 2.56 KWh.png
+media/product-images/Solar PCU 2500 MPPT BLE.jpg
+media/product-images/Solar PCU 2500 MPPT BLE.png
+media/product-images/Solar PCU 5500 MPPT + LiFePO4 5.12 KWh.jpg
+media/product-images/Solar PCU 5500 MPPT + LiFePO4 5.12 KWh.webp
+media/product-images/Solar PCU 5500 MPPT BLE.jpg
+media/product-images/Solar PCU 5500 MPPT BLE.png
+patents/403377_Patent Certificate.pdf
+patents/403781_Patent Certificate.pdf
+patents/408390_Patent Certificate.pdf
+patents/411360_Patent Certificate.pdf
+patents/423237_Patent Certificate.pdf
+patents/423453_Patent Certificate.pdf
+patents/432802_Patent Certificate.pdf
+patents/436188_Patent Certificate.pdf
+patents/463655_Patent Certificate.pdf
+patents/466373_Patent Certificate.pdf
+patents/475993_Patent Certificate.pdf
+patents/Bureau Of Indian Standards (1).pdf
+patents/certificates/bis-is16221-iec62109-2-r91016128-preview.jpg
+patents/certificates/bis-is16221-iec62109-2-r91016128.pdf
+patents/images/403377_Patent Certificate.jpg
+patents/images/403377_Patent Certificate.webp
+patents/images/403781_Patent Certificate.jpg
+patents/images/403781_Patent Certificate.webp
+patents/images/408390_Patent Certificate.jpg
+patents/images/408390_Patent Certificate.webp
+patents/images/411360_Patent Certificate.jpg
+patents/images/411360_Patent Certificate.webp
+patents/images/423237_Patent Certificate.jpg
+patents/images/423237_Patent Certificate.webp
+patents/images/423453_Patent Certificate.jpg
+patents/images/423453_Patent Certificate.webp
+patents/images/432802_Patent Certificate.jpg
+patents/images/432802_Patent Certificate.webp
+patents/images/436188_Patent Certificate.jpg
+patents/images/436188_Patent Certificate.webp
+patents/images/463655_Patent Certificate.jpg
+patents/images/463655_Patent Certificate.webp
+patents/images/466373_Patent Certificate.jpg
+patents/images/466373_Patent Certificate.webp
+patents/images/475993_Patent Certificate.jpg
+patents/images/475993_Patent Certificate.webp
+patents/images/bis.webp
+patents/images/msme.webp
+patents/images/rohs.webp
+patents/images/WhatsApp Image 2026-05-18 at 16.29.48.jpeg
+patents/images/WhatsApp Image 2026-05-18 at 16.29.48.webp
+patents/su-vastika systems pvt. ltd rohs-compliance UQ-2024111933.pdf
