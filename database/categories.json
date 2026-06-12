@@ -1,0 +1,145 @@
+[
+ {
+  "id": "82a388cf-065f-4b72-97bc-96dbc8c8bc3b",
+  "slug": "battery-energy-storage",
+  "name": "Battery Energy Storage (BESS)",
+  "description": "Scalable Battery Energy Storage Systems for commercial and industrial use (1P-1P and 3P-3P). Up to 30KVA / 36KWh with LCD monitoring.",
+  "parent_id": null,
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/BESS%2015KVA%20%2018KWh%20%283P-3P%29.png",
+  "is_nav": true,
+  "nav_order": 4,
+  "short_label": "BESS / ESS"
+ },
+ {
+  "id": "5561407d-288d-4f87-a62e-fc31dd6cd734",
+  "slug": "heavy-duty-ups-1p1p",
+  "name": "Heavy Duty UPS 1P-1P (Single Phase)",
+  "description": "Single phase in, single phase out heavy duty UPS with IGBT technology.",
+  "parent_id": "c2214e69-a99d-4e6c-80bf-ae6bdeca097e",
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2010KVA%20%28IGBT%29%201P-1P.png",
+  "is_nav": false,
+  "nav_order": 1,
+  "short_label": "1P-1P Single Phase"
+ },
+ {
+  "id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "slug": "pure-sine-wave-ups",
+  "name": "Pure Sine Wave UPS and UPS with ATC",
+  "description": "Pure Sine Wave UPS and UPS with ATC Series (1P-1P) for homes, offices and sensitive IT loads. Variable charging 2.5A–25A, built-in isolation transformer, instant changeover.",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 1,
+  "short_label": "Pure Sine Wave UPS & ATC"
+ },
+ {
+  "id": "4eb7bae4-0fac-4ac0-8f9f-4b4ef23b4e61",
+  "slug": "lift-inverter-erd",
+  "name": "Lift Inverter / ERD",
+  "description": "Emergency Rescue Device and Lift Inverter for non-regenerative lifts and escalators (3P-3P). IGBT-based, built-in isolation transformer, up to 30KVA / 36KWh.",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 7,
+  "short_label": "Lift / ERD"
+ },
+ {
+  "id": "add62f6d-7f59-42dd-9caf-5881818eec53",
+  "slug": "solar-pcu",
+  "name": "Solar PCU MPPT",
+  "description": "Solar Power Conditioning Unit with MPPT charge controller (1P-1P). Bi-directional technology, Bluetooth/Wi-Fi monitoring, ATC, up to 10KVA.",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 8,
+  "short_label": "Solar PCU"
+ },
+ {
+  "id": "92ebce62-17dd-496d-aef0-6b884ce5da52",
+  "slug": "solar-pcu-lithium-combo",
+  "name": "Solar PCU + Lithium Combo",
+  "description": "Solar PCU MPPT paired with LiFePO4 battery — solar-first, grid-backup, app monitoring. Ideal for homes and SMEs needing clean solar energy (1P-1P).",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 9,
+  "short_label": "Solar + Li Combo"
+ },
+ {
+  "id": "e238cf4f-83e8-4d79-9fb2-b7bc211057fc",
+  "slug": "heavy-duty-ups-3p3p",
+  "name": "Heavy Duty UPS 3P-3P (Three Phase)",
+  "description": "Three phase in, three phase out heavy duty UPS with IGBT technology.",
+  "parent_id": "c2214e69-a99d-4e6c-80bf-ae6bdeca097e",
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2015KVA%20%28IGBT%29%203P-3P.png",
+  "is_nav": false,
+  "nav_order": 2,
+  "short_label": "3P-3P Three Phase"
+ },
+ {
+  "id": "11899c40-1d70-4f1f-b17e-3cce829173a8",
+  "slug": "heavy-duty-online-ups",
+  "name": "Heavy Duty Online UPS (IGBT)",
+  "description": "Heavy Duty Online UPS with IGBT technology for motors, compressors and IT infrastructure. 1P-1P configurations up to 10KVA.",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 5,
+  "short_label": null
+ },
+ {
+  "id": "ca1701a2-c03f-4e02-8b80-bcd475430c49",
+  "slug": "retrofit-lithium-battery",
+  "name": "Retrofit LiFePO4 Battery",
+  "description": "Drop-in LiFePO4 replacement batteries compatible with any existing inverter/UPS brand. Smart BMS, sleep mode, Anderson connector, 3000+ cycle life.",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 3,
+  "short_label": "Retrofit LiFePO4 Battery"
+ },
+ {
+  "id": "c2214e69-a99d-4e6c-80bf-ae6bdeca097e",
+  "slug": "heavy-duty-ups",
+  "name": "Heavy Duty UPS (IGBT)",
+  "description": "Heavy Duty UPS with IGBT technology for motors, compressors and IT infrastructure. 1P-1P and 3P-3P configurations up to 30KVA.",
+  "parent_id": null,
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2015KVA%20%28IGBT%29%203P-3P.png",
+  "is_nav": true,
+  "nav_order": 6,
+  "short_label": "Heavy Duty UPS (IGBT)"
+ },
+ {
+  "id": "37f967c4-cf51-446e-86be-493b789eb90e",
+  "slug": "ups-lithium-combo",
+  "name": "UPS + Lithium Combo",
+  "description": "Pure Sine Wave UPS bundled with matched LiFePO4 battery for maximum backup and zero maintenance. Ready-to-install combo packs (1P-1P).",
+  "parent_id": null,
+  "image": null,
+  "is_nav": true,
+  "nav_order": 2,
+  "short_label": "UPS + Li Combo"
+ },
+ {
+  "id": "6354c2cc-7139-410f-a1cb-ef341badc5a4",
+  "slug": "bess-1p1p",
+  "name": "BESS 1P-1P (Single Phase)",
+  "description": "Single phase Battery Energy Storage Systems",
+  "parent_id": "82a388cf-065f-4b72-97bc-96dbc8c8bc3b",
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/ESS%2010KVA%20%209KWh%20%281P-1P%29.jpg",
+  "is_nav": false,
+  "nav_order": 1,
+  "short_label": "1P-1P"
+ },
+ {
+  "id": "a81ee953-bc9d-4690-9339-8998583c6639",
+  "slug": "bess-3p3p",
+  "name": "BESS 3P-3P (Three Phase)",
+  "description": "Three phase Battery Energy Storage Systems",
+  "parent_id": "82a388cf-065f-4b72-97bc-96dbc8c8bc3b",
+  "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/BESS%2015KVA%20%2018KWh%20%283P-3P%29.png",
+  "is_nav": false,
+  "nav_order": 2,
+  "short_label": "3P-3P"
+ }
+]

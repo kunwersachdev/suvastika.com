@@ -1,0 +1,25 @@
+[
+ {
+  "id": "4ebe8025-aea2-4969-ae1f-7d691a7f5a50",
+  "event_name": "SPECTRUM 2026",
+  "event_date": "2026-05-15",
+  "location": "Gurgaon",
+  "role": "Panelist",
+  "topic": "Liver benefits of innovator semaglutide 2.4 mg in real-world F2–F3 MASH",
+  "images": [
+   {
+    "alt": "Dr. Parti as panelist at SPECTRUM 2026, Gurgaon — panel discussion on semaglutide and MASH",
+    "src": "/images/speaking/spectrum-2026-panel.jpeg"
+   },
+   {
+    "alt": "Dr. Parti with fellow panelists at SPECTRUM 2026, Gurgaon",
+    "src": "/images/speaking/spectrum-2026-group.jpeg"
+   }
+  ],
+  "status": "published",
+  "sort_order": 0,
+  "published_at": "2026-05-21T06:58:13.677854+00:00",
+  "created_at": "2026-05-21T06:58:13.677854+00:00",
+  "updated_at": "2026-05-21T06:58:13.677854+00:00"
+ }
+]

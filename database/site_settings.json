@@ -1,0 +1,54 @@
+[
+ {
+  "key": "trust_metrics",
+  "value": {
+   "patents": "25+",
+   "yearsRD": "10+",
+   "products": "140+",
+   "countries": "30+",
+   "customers": "10,000+",
+   "rdEngineers": "50+"
+  },
+  "updated_at": "2026-05-18T07:23:22.13+00:00"
+ },
+ {
+  "key": "about_block",
+  "value": {
+   "body": "Su-vastika designs and manufactures advanced power backup systems, lithium battery solutions, energy storage technologies and solar inverters. The company holds more than 25+ patents in clean energy innovation, with a focus on reliable, efficient, and sustainable power solutions.",
+   "image": "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/about/leadership.jpeg",
+   "eyebrow": "About Su-vastika",
+   "headline": "Engineering the Future of Energy"
+  },
+  "updated_at": "2026-05-18T07:23:22.13+00:00"
+ },
+ {
+  "key": "homepage_hero",
+  "value": {
+   "eyebrow": "BESS · Lithium Inverter/UPS · Lift Inverter · Backup",
+   "bg_image": "/home/diesel-generators.jpg",
+   "headline": "Take the diesel generator\nout of the building.",
+   "cta_primary": {
+    "href": "/blog",
+    "label": "See our projects"
+   },
+   "subheadline": "Silent, fuel-free lithium power backup & energy storage — proven in India's first all-lithium hotel, factories, homes and high-rise lifts.",
+   "cta_secondary": {
+    "href": "/contact",
+    "label": "Talk to an engineer"
+   }
+  },
+  "updated_at": "2026-06-02T12:26:53.336+00:00"
+ },
+ {
+  "key": "contact_info",
+  "value": {
+   "email": "info@suvastika.com",
+   "phone": "1800-202-4423 / +91 97117 74744",
+   "address": "Su-vastika Systems Pvt. Ltd.\nNear Sohna Toll Plaza, Ghamroj, \nGurugram - 122102 Haryana (INDIA)",
+   "whatsapp": "+919711774744",
+   "phone_raw": "18002024423",
+   "sales_email": ""
+  },
+  "updated_at": "2026-05-15T07:59:29.86+00:00"
+ }
+]

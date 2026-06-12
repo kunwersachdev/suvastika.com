@@ -1,0 +1,1378 @@
+[
+ {
+  "id": "85ca1019-54ef-4bad-ac0b-003dbf31c499",
+  "slug": "heavy-duty-online-ups-5kva",
+  "name": "Heavy Duty Online UPS 5KVA (IGBT)",
+  "description": "Su-vastika Heavy Duty Online UPS 5KVA (IGBT Based) is a 180V / 5KVA (4KW) true online double-conversion UPS with IGBT technology. Designed for motors, compressors, sensitive IT loads and any load requiring zero transfer time. Built-in isolation transformer, LCD display, generator compatible, manual bypass via rotary switch. 18KW lithium battery provides 4 hours 30 minutes backup at full load.",
+  "short_description": "Online 5KVA / 4KW IGBT UPS for motors, compressors and IT loads.",
+  "price": null,
+  "category_id": "11899c40-1d70-4f1f-b17e-3cce829173a8",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20Online%20UPS%205KVA%20%28IGBT%29.png"
+  ],
+  "specs": {
+   "type": "Online Double-Conversion",
+   "volt": "180V",
+   "phase": "1P-1P",
+   "ups_va": "5 KVA",
+   "display": "LCD",
+   "wattage": "4 KW",
+   "features": [
+    "IGBT Technology",
+    "True Online Operation",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Generator Compatible",
+    "Manual Bypass via Rotary Switch",
+    "For Motors & Compressors",
+    "For IT Loads"
+   ],
+   "backup_at_full_load": "4 Hr 30 mins",
+   "lithium_battery_rating": "18 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "dba2a4bb-f62c-4cf5-ae8e-a82383fc8a59",
+  "slug": "heavy-duty-online-ups-10-5kva",
+  "name": "Heavy Duty Online UPS 10.5KVA (IGBT)",
+  "description": "Su-vastika Heavy Duty Online UPS 10.5KVA (IGBT Based) delivers 180V / 10.5KVA (8KW) true online power with IGBT technology. Zero transfer time, built-in isolation transformer, LCD display and generator compatibility. 18KW lithium battery rating provides 2 hours 15 minutes backup at full load.",
+  "short_description": "Online 10.5KVA / 8KW IGBT UPS for industrial and IT applications.",
+  "price": null,
+  "category_id": "11899c40-1d70-4f1f-b17e-3cce829173a8",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20Online%20UPS%2010.5KVA%20%28IGBT%29.png"
+  ],
+  "specs": {
+   "type": "Online Double-Conversion",
+   "volt": "180V",
+   "phase": "1P-1P",
+   "ups_va": "10.5 KVA",
+   "display": "LCD",
+   "wattage": "8 KW",
+   "features": [
+    "IGBT Technology",
+    "True Online Operation",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Generator Compatible",
+    "Manual Bypass via Rotary Switch",
+    "For Motors & Compressors",
+    "For IT Loads"
+   ],
+   "backup_at_full_load": "2 Hr 15 mins",
+   "lithium_battery_rating": "18 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "db1976b5-bf29-41b6-9119-cb6b84ee80c1",
+  "slug": "heavy-duty-ups-10-5kva-3p3p",
+  "name": "Heavy Duty UPS 10.5KVA (IGBT) 3P-3P",
+  "description": "Su-vastika Heavy Duty UPS 10.5KVA (IGBT Based) 3P-3P operates at 180V three-phase with 10KVA / 8KW output. For factories, industrial machinery and commercial three-phase infrastructure requiring clean constant-frequency power.",
+  "short_description": "Three-phase 10KVA / 8KW IGBT UPS for industrial three-phase loads.",
+  "price": null,
+  "category_id": "e238cf4f-83e8-4d79-9fb2-b7bc211057fc",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2010.5KVA%20%28IGBT%29%203P-3P.png"
+  ],
+  "specs": {
+   "type": "Heavy Duty UPS",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "ups_va": "10 KVA",
+   "battery": "Lead Acid Compatible",
+   "display": "LCD",
+   "wattage": "8 KW",
+   "features": [
+    "IGBT Technology",
+    "Three-Phase Output",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Generator Compatible",
+    "Pure Sine Wave Output",
+    "MCB Mains Protection",
+    "Maintenance Bypass",
+    "Instantaneous Changeover"
+   ]
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "89444128-68e0-4a62-8e07-d4c5aeaf4259",
+  "slug": "retrofit-lifepo4-10kw",
+  "name": "LiFePO4 Retrofit Battery 10 KW",
+  "description": "Su-vastika LiFePO4 Retrofit Battery 10KW is the largest retrofit unit at 96V / 10KWh, compatible with 96V inverters up to 8000W. Provides approximately 1 hour backup at 10KW load. Intelligent BMS with 5 key features: cell balancing, SOC monitoring, SOH tracking, real-time app monitoring and safety automation. Rated capacity 100Ah, CC-CV charging, max 25A charge current.",
+  "short_description": "96V / 10KWh for any 96V inverter up to 8000W.",
+  "price": null,
+  "category_id": "ca1701a2-c03f-4e02-8b80-bcd475430c49",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/LiFePO4%20Retrofit%20Battery%2010%20KW.png"
+  ],
+  "specs": {
+   "volt": "96V",
+   "backup": {
+    "10000W": "1 Hr 10 mins"
+   },
+   "energy": "10 KWh",
+   "capacity": "100Ah",
+   "features": [
+    "Smart BMS",
+    "Cell Balancing",
+    "SOC & SOH Monitoring",
+    "Real-Time App Monitoring",
+    "Safety Automation",
+    "Sleep Mode",
+    "MCB Protection",
+    "Anderson Connector",
+    "Maintenance Free"
+   ],
+   "cycle_life": "≥3500 cycles",
+   "charge_time": "5:30 Hours",
+   "compatible_inverter": "Any 96V inverter up to 8000W"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "8af882b3-43d5-48a7-88fb-15f731d650ad",
+  "slug": "retrofit-lifepo4-1280wh",
+  "name": "LiFePO4 Retrofit Battery 1280 Wh",
+  "description": "Su-vastika LiFePO4 Retrofit Battery 1280Wh operates at 12.8V and is compatible with any 12V inverter/UPS up to 900W. Replaces a standard 150Ah tubular battery at just 14.2 kg — 1/3 the weight. Wall-mountable (no trolley needed). Smart BMS with cell balancing, SOC/SOH monitoring, real-time app tracking, sleep mode for extended outages, MCB back-protection and Anderson connector for polarity safety. 3000+ cycle life, 7–10 year lifespan, charges in 4–5 hours.",
+  "short_description": "12.8V / 1280Wh drop-in replacement for any 12V inverter up to 900W.",
+  "price": null,
+  "category_id": "ca1701a2-c03f-4e02-8b80-bcd475430c49",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/LiFePO4%20Retrofit%20Battery%201280%20Wh.png"
+  ],
+  "specs": {
+   "volt": "12.8V",
+   "backup": {
+    "400W": "2 Hr 50 mins",
+    "600W": "1 Hr 55 mins",
+    "900W": "1 Hr 15 mins"
+   },
+   "energy": "1280 Wh",
+   "weight": "14.20 kg",
+   "capacity": "100Ah",
+   "features": [
+    "Smart BMS with Cell Balancing",
+    "SOC & SOH Monitoring",
+    "Real-Time App Monitoring",
+    "Sleep Mode",
+    "MCB Back-Protection",
+    "Anderson Connector",
+    "Wall Mountable",
+    "Maintenance Free",
+    "Fast Charging (4–5 hrs)"
+   ],
+   "cycle_life": "≥3500 cycles",
+   "charge_time": "4:30 Hours",
+   "compatible_inverter": "Any 12V inverter up to 900W"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "c2f4b4a4-5931-41cf-9f4e-3b1f4e08a804",
+  "slug": "retrofit-lifepo4-2-56kwh",
+  "name": "LiFePO4 Retrofit Battery 2.56 KWh",
+  "description": "Su-vastika LiFePO4 Retrofit Battery 2.56KWh delivers 25.6V / 2.56KWh energy storage compatible with any 24V inverter/UPS up to 2000W. Drop-in replacement for dual 150Ah tubular batteries. Features patented smart BMS, sleep mode, thermal seal for performance, MCB protection and Anderson connectors. 3500+ cycle life with CC-CV charging.",
+  "short_description": "25.6V / 2.56KWh for any 24V inverter up to 2000W.",
+  "price": null,
+  "category_id": "ca1701a2-c03f-4e02-8b80-bcd475430c49",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/LiFePO4%20Retrofit%20Battery%202.56%20KWh.jpg"
+  ],
+  "specs": {
+   "volt": "25.6V",
+   "backup": {
+    "400W": "6 Hr",
+    "600W": "4 Hr",
+    "2000W": "1 Hr 10 mins"
+   },
+   "energy": "2.56 KWh",
+   "capacity": "100Ah",
+   "features": [
+    "Smart BMS",
+    "Cell Balancing",
+    "SOC & SOH Monitoring",
+    "App Monitoring",
+    "Sleep Mode",
+    "MCB Protection",
+    "Anderson Connector",
+    "Wall Mountable",
+    "Maintenance Free"
+   ],
+   "cycle_life": "≥3500 cycles",
+   "charge_time": "5:30 Hours",
+   "compatible_inverter": "Any 24V inverter up to 2000W"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "8da4afdd-c956-483d-ae64-da537de14586",
+  "slug": "retrofit-lifepo4-5-12kwh",
+  "name": "LiFePO4 Retrofit Battery 5.12 KWh",
+  "description": "Su-vastika LiFePO4 Retrofit Battery 5.12KWh operates at 51.2V and works with any 48V inverter/UPS up to 4000W. Provides up to 4 hours backup at 1200W or 1 hour 10 minutes at 4000W load. Smart BMS, patented sleep mode, thermal management and MCB protection built in.",
+  "short_description": "51.2V / 5.12KWh for any 48V inverter up to 4000W.",
+  "price": null,
+  "category_id": "ca1701a2-c03f-4e02-8b80-bcd475430c49",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/LiFePO4%20Retrofit%20Battery%205.12%20KWh.png"
+  ],
+  "specs": {
+   "volt": "51.2V",
+   "backup": {
+    "1200W": "4 Hr",
+    "2000W": "2 Hr 25 mins",
+    "4000W": "1 Hr 10 mins"
+   },
+   "energy": "5.12 KWh",
+   "capacity": "100Ah",
+   "features": [
+    "Smart BMS",
+    "Cell Balancing",
+    "SOC & SOH Monitoring",
+    "App Monitoring",
+    "Sleep Mode",
+    "MCB Protection",
+    "Anderson Connector",
+    "Maintenance Free"
+   ],
+   "cycle_life": "≥3500 cycles",
+   "charge_time": "5:30 Hours",
+   "compatible_inverter": "Any 48V inverter up to 4000W"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "e1841fe3-a033-43c9-9595-0449657b3df5",
+  "slug": "erd-10kva",
+  "name": "Lift Inverter / ERD 10KVA",
+  "description": "Su-vastika Emergency Rescue Device (ERD) / Lift Inverter 10KVA is designed for non-regenerative lifts with motor rating up to 3.7KW (1 lift). Operates at 180V / 10KVA three-phase with 18KW lithium battery, providing 4 hours 40 minutes of backup. IGBT-based, built-in isolation transformer, LCD display with Bluetooth/Wi-Fi remote monitoring. Compliant with BIS standards for lift safety. Patented technology.",
+  "short_description": "10KVA ERD for lifts with motor up to 3.7KW — 4 hrs 40 mins backup.",
+  "price": null,
+  "category_id": "4eb7bae4-0fac-4ac0-8f9f-4b4ef23b4e61",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Lift%20Inverter%20%20ERD%2010KVA.png"
+  ],
+  "specs": {
+   "type": "ERD / Lift Inverter",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "backup": "4 Hr 40 mins",
+   "ups_va": "10 KVA",
+   "display": "LCD",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Instantaneous Switchover",
+    "Low Maintenance",
+    "For Non-Regenerative Lifts Only",
+    "Compatible with All Makes"
+   ],
+   "checkpoints": [
+    "Motor Rating",
+    "No. of Lifts",
+    "Regenerative or Non-Regenerative",
+    "Lift Make and Year"
+   ],
+   "max_lift_motor": "3.7 KW (1 lift)",
+   "lithium_battery_rating": "18 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "c2c5ad68-b48c-4c5c-98b6-7b0fcaa2059e",
+  "slug": "erd-15kva",
+  "name": "Lift Inverter / ERD 15KVA",
+  "description": "Su-vastika ERD / Lift Inverter 15KVA handles non-regenerative lifts with motor up to 7.5KW (1 lift). 180V / 15KVA three-phase with 18KW lithium battery, providing 2 hours 15 minutes backup. Instantaneous switchover prevents passengers from being stranded during power failure. IGBT-based with LCD display and remote monitoring.",
+  "short_description": "15KVA ERD for lifts with motor up to 7.5KW — 2 hrs 15 mins backup.",
+  "price": null,
+  "category_id": "4eb7bae4-0fac-4ac0-8f9f-4b4ef23b4e61",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Lift%20Inverter%20%20ERD%2015KVA.png"
+  ],
+  "specs": {
+   "type": "ERD / Lift Inverter",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "backup": "2 Hr 15 mins",
+   "ups_va": "15 KVA",
+   "display": "LCD",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Instantaneous Switchover",
+    "Low Maintenance",
+    "For Non-Regenerative Lifts Only"
+   ],
+   "max_lift_motor": "7.5 KW (1 lift)",
+   "lithium_battery_rating": "18 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "0b6ff34d-4fd6-42d7-b160-965deef85777",
+  "slug": "erd-20kva",
+  "name": "Lift Inverter / ERD 20KVA",
+  "description": "Su-vastika ERD / Lift Inverter 20KVA is rated for non-regenerative lifts with motor up to 11.5KW (1 lift). 180V / 20KVA three-phase with 18KW lithium battery providing 1 hour 30 minutes backup. For larger passenger and freight lifts in commercial buildings and hotels.",
+  "short_description": "20KVA ERD for lifts with motor up to 11.5KW — 1 hr 30 mins backup.",
+  "price": null,
+  "category_id": "4eb7bae4-0fac-4ac0-8f9f-4b4ef23b4e61",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Lift%20Inverter%20%20ERD%2020KVA.png"
+  ],
+  "specs": {
+   "type": "ERD / Lift Inverter",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "backup": "1 Hr 30 mins",
+   "ups_va": "20 KVA",
+   "display": "LCD",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Instantaneous Switchover",
+    "Low Maintenance",
+    "For Non-Regenerative Lifts Only"
+   ],
+   "max_lift_motor": "11.5 KW (1 lift)",
+   "lithium_battery_rating": "18 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "166f3b52-7113-4e29-9789-73bb7145cfe8",
+  "slug": "erd-30kva",
+  "name": "Lift Inverter / ERD 30KVA",
+  "description": "Su-vastika ERD / Lift Inverter 30KVA is the most powerful ERD unit, rated for non-regenerative lifts up to 15KW motor (1 lift). Operates at 360V / 30KVA three-phase with 36KW lithium battery providing 2 hours 10 minutes backup. For high-speed, high-capacity passenger and service lifts in large commercial complexes, hospitals and industrial buildings.",
+  "short_description": "30KVA ERD for lifts with motor up to 15KW — 2 hrs 10 mins backup.",
+  "price": null,
+  "category_id": "4eb7bae4-0fac-4ac0-8f9f-4b4ef23b4e61",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Lift%20Inverter%20%20ERD%2030KVA.jpg"
+  ],
+  "specs": {
+   "type": "ERD / Lift Inverter",
+   "volt": "360V",
+   "phase": "3P-3P",
+   "backup": "2 Hr 10 mins",
+   "ups_va": "30 KVA",
+   "display": "LCD",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Instantaneous Switchover",
+    "Low Maintenance",
+    "For Non-Regenerative Lifts Only"
+   ],
+   "max_lift_motor": "15 KW (1 lift)",
+   "lithium_battery_rating": "36 KW"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "d86bce3b-9147-491b-9fc2-4b8e3cdf2c8d",
+  "slug": "pure-sine-wave-ups-1800",
+  "name": "Pure Sine Wave UPS 1800",
+  "description": "The Su-vastika Pure Sine Wave UPS 1800 delivers 24V / 1500VA power with 1200W bulb load capacity. Ideal for medium households running multiple fans, lights, refrigerators and computers simultaneously. LED display, instant changeover and built-in isolation transformer included.",
+  "short_description": "1500 VA / 1200 W UPS for medium homes and small offices.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%201800.png"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "1500 VA",
+   "display": "LED",
+   "wattage": "1200 W",
+   "features": [
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Automatic Bypass",
+    "Variable Charging 2.5A–25A",
+    "ATC",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "9138c848-82c4-4dfd-834b-892ce3f19423",
+  "slug": "pure-sine-wave-ups-2300",
+  "name": "Pure Sine Wave UPS 2300",
+  "description": "The Su-vastika Pure Sine Wave UPS 2300 is rated at 24V / 2000VA with 1600W bulb load. Handles heavy household loads including inverter ACs, multiple computers and high-wattage appliances. Pure sine wave output ensures no damage to sensitive equipment.",
+  "short_description": "2000 VA / 1600 W UPS for large homes and small businesses.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%202300.png"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "2000 VA",
+   "display": "LED",
+   "wattage": "1600 W",
+   "features": [
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Automatic Bypass",
+    "Variable Charging 2.5A–25A",
+    "ATC",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "8c784b2b-679e-4450-bddd-79af4419780e",
+  "slug": "ups-li-1050-combo",
+  "name": "Pure Sine Wave UPS Li 1050 Combo",
+  "description": "Su-vastika Pure Sine Wave UPS Li 1050 Combo pairs the 900VA / 640W UPS with a matched 12V / 1280Wh LiFePO4 battery. Everything optimised to work together — no compatibility issues, no lead-acid maintenance. One complete power backup solution for homes. The lithium battery charges 3× faster and lasts 3× longer than tubular alternatives.",
+  "short_description": "900 VA UPS + 1280Wh LiFePO4 battery — ready-to-use home backup.",
+  "price": null,
+  "category_id": "37f967c4-cf51-446e-86be-493b789eb90e",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20Li%201050%20Combo.jpg"
+  ],
+  "specs": {
+   "volt": "12V",
+   "phase": "1P-1P",
+   "ups_va": "900 VA",
+   "wattage": "640 W",
+   "features": [
+    "Matched LiFePO4 Battery",
+    "Smart BMS",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "ATC",
+    "Zero Battery Maintenance",
+    "Fast Charge 4–5 hrs"
+   ],
+   "technology": "Pure Sine Wave + LiFePO4",
+   "battery_energy": "1280 Wh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "71fa9017-d109-469b-a59c-ca735ce863de",
+  "slug": "ups-li-5500-combo",
+  "name": "Pure Sine Wave UPS Li 5500 Combo",
+  "description": "Su-vastika Pure Sine Wave UPS Li 5500 Combo is a 48V / 5000VA (4000W) UPS matched with a 4.48KWh LiFePO4 battery pack. Ideal for large offices, hotels and commercial establishments. Lithium battery provides significantly longer backup than lead-acid at 1/3 the weight. Built-in smart BMS and zero maintenance operation.",
+  "short_description": "5000 VA UPS + 4.48KWh LiFePO4 battery for offices and commercial use.",
+  "price": null,
+  "category_id": "37f967c4-cf51-446e-86be-493b789eb90e",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20Li%205500%20Combo.png"
+  ],
+  "specs": {
+   "volt": "48V",
+   "phase": "1P-1P",
+   "ups_va": "5000 VA",
+   "wattage": "4000 W",
+   "features": [
+    "Matched LiFePO4 Battery",
+    "Smart BMS",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "ATC",
+    "Zero Battery Maintenance",
+    "Fast Charge"
+   ],
+   "technology": "Pure Sine Wave + LiFePO4",
+   "battery_energy": "4.48 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "e56fbb06-b2eb-4656-ab22-d9aa27a8a952",
+  "slug": "pure-sine-wave-ups-atc-1350",
+  "name": "Pure Sine Wave UPS with ATC 1350",
+  "description": "The Su-vastika Pure Sine Wave UPS with ATC 1350 operates at 12V / 1200VA (800W). The Automatic Temperature Compensation (ATC) technology optimises battery charging voltage based on ambient temperature — extending battery life by up to 20% in hot Indian climates.",
+  "short_description": "1200 VA / 800 W UPS with Automatic Temperature Compensation.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20With%20ATC%201350.png"
+  ],
+  "specs": {
+   "volt": "12V",
+   "phase": "1P-1P",
+   "ups_va": "1200 VA",
+   "display": "LED",
+   "wattage": "800 W",
+   "features": [
+    "ATC — Automatic Temperature Compensation",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Automatic Bypass",
+    "Variable Charging 2.5A–25A",
+    "DIP Switch Settings",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "b2a21353-5d15-4ea7-b161-08b9ccaaf5c9",
+  "slug": "pure-sine-wave-ups-atc-2500",
+  "name": "Pure Sine Wave UPS with ATC 2500",
+  "description": "The Su-vastika Pure Sine Wave UPS with ATC 2500 delivers 24V / 2500VA (2000W) with LCD display and ATC technology. The LCD provides detailed status — battery level, load percentage, input voltage and charging current. Perfect for offices and commercial establishments.",
+  "short_description": "2500 VA / 2000 W LCD UPS with ATC — ideal for offices.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20with%20ATC%202500.webp"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "2500 VA",
+   "display": "LCD",
+   "wattage": "2000 W",
+   "features": [
+    "LCD Display",
+    "ATC — Automatic Temperature Compensation",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Variable Charging 2.5A–25A",
+    "DIP Switch Settings",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "f3a3c775-2a39-4c20-a3cc-5805943023e6",
+  "slug": "pure-sine-wave-ups-atc-3500",
+  "name": "Pure Sine Wave UPS with ATC 3500",
+  "description": "Su-vastika Pure Sine Wave UPS with ATC 3500 provides 24V / 3250VA (2600W) with LCD display and temperature-compensated charging. Handles heavy commercial loads with pure sine wave output.",
+  "short_description": "3250 VA / 2600 W LCD UPS for large offices and commercial use.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20with%20ATC%203500.webp"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "3250 VA",
+   "display": "LCD",
+   "wattage": "2600 W",
+   "features": [
+    "LCD Display",
+    "ATC",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Variable Charging 2.5A–25A",
+    "DIP Switch Settings",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "7ec8b169-d3a2-4efd-82b9-b3b77d1cc82a",
+  "slug": "pure-sine-wave-ups-atc-4000",
+  "name": "Pure Sine Wave UPS with ATC 4000",
+  "description": "Su-vastika Pure Sine Wave UPS with ATC 4000 rated at 48V / 4000VA (3200W). Designed for large commercial establishments, hospitals and factories requiring high-capacity clean power with ATC charging.",
+  "short_description": "4000 VA / 3200 W LCD UPS at 48V for high-load applications.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20with%20ATC%204000.webp"
+  ],
+  "specs": {
+   "volt": "48V",
+   "phase": "1P-1P",
+   "ups_va": "4000 VA",
+   "display": "LCD",
+   "wattage": "3200 W",
+   "features": [
+    "LCD Display",
+    "ATC",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Variable Charging 2.5A–25A",
+    "DIP Switch Settings",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "44c2d83c-52ae-48c3-93e8-c3c8231fa3aa",
+  "slug": "pure-sine-wave-ups-atc-5500",
+  "name": "Pure Sine Wave UPS with ATC 5500",
+  "description": "The Su-vastika Pure Sine Wave UPS with ATC 5500 is the most powerful in the home/commercial UPS range at 48V / 5000VA (4000W). LCD display, ATC, Bluetooth/Wi-Fi monitoring available at extra cost. Handles large motor loads, HVAC systems and critical IT infrastructure.",
+  "short_description": "5000 VA / 4000 W LCD UPS — top-of-range for heavy commercial loads.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20with%20ATC%205500.webp"
+  ],
+  "specs": {
+   "volt": "48V",
+   "phase": "1P-1P",
+   "ups_va": "5000 VA",
+   "display": "LCD",
+   "wattage": "4000 W",
+   "features": [
+    "LCD Display",
+    "ATC",
+    "Bluetooth/Wi-Fi Monitoring (optional)",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Variable Charging 2.5A–25A",
+    "DIP Switch Settings",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "14e3053f-c843-4a87-b084-7fc8c301012a",
+  "slug": "pure-sine-wave-ups-1050",
+  "name": "Pure Sine Wave UPS 1050",
+  "description": "The Su-vastika Pure Sine Wave UPS 1050 is the flagship home UPS model. Rated at 12V / 900VA with 640W output, it powers fans, lights, small ACs and computers with a pure sine wave. Built-in isolation transformer protects sensitive loads. Supports ATC for optimal battery charging in all climates.",
+  "short_description": "900 VA / 640 W home UPS — most popular model for households.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%201050.png"
+  ],
+  "specs": {
+   "volt": "12V",
+   "phase": "1P-1P",
+   "ups_va": "900 VA",
+   "display": "LED",
+   "wattage": "640 W",
+   "features": [
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Automatic Bypass",
+    "Variable Charging 2.5A–25A",
+    "ATC",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "7d55e0d7-0e8d-44e3-9830-c5702a94fa0c",
+  "slug": "pure-sine-wave-ups-850",
+  "name": "Pure Sine Wave UPS 850",
+  "description": "The Su-vastika Pure Sine Wave UPS 850 is designed for small homes and sensitive appliances. With a 12V / 700VA output and 490W bulb load capacity, it delivers clean pure sine wave power with instant changeover. Features include built-in isolation transformer, MCB for mains protection, automatic bypass, and variable charging from 2.5A to 25A.",
+  "short_description": "700 VA / 490 W home UPS with instant changeover and LED display.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20850.png"
+  ],
+  "specs": {
+   "volt": "12V",
+   "phase": "1P-1P",
+   "ups_va": "700 VA",
+   "display": "LED",
+   "wattage": "490 W",
+   "features": [
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Automatic Bypass",
+    "Variable Charging 2.5A–25A",
+    "ATC (Automatic Temperature Compensation)",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "2730edd4-3379-47cd-800e-8aa2f48dba3c",
+  "slug": "solar-pcu-10kva-lifepo4-9kwh",
+  "name": "Solar PCU 10KVA MPPT + LiFePO4 9 KWh",
+  "description": "Su-vastika 10KVA MPPT with LiFePO4 Battery 9KWh is a 90V / 10KVA (8000W) solar system with a 9KWh lithium battery bank. At 2000W load gives 4 hours 15 minutes; at 8000W gives 1 hour backup. LCD display, 40A MPPT, bi-directional charging and remote monitoring via Bluetooth/Wi-Fi. Ideal for factories, farms and commercial solar setups.",
+  "short_description": "10 KVA solar PCU with 9KWh LiFePO4 for commercial solar systems.",
+  "price": null,
+  "category_id": "92ebce62-17dd-496d-aef0-6b884ce5da52",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%2010KVA%20MPPT%20%2B%20LiFePO4%209%20KWh.webp"
+  ],
+  "specs": {
+   "voc": "215 VOC",
+   "volt": "90V",
+   "phase": "1P-1P",
+   "backup": {
+    "2000W": "4 Hr 15 mins",
+    "8000W": "1 Hr"
+   },
+   "ups_va": "10 KVA",
+   "display": "LCD",
+   "wattage": "8000 W",
+   "features": [
+    "40A MPPT",
+    "9KWh LiFePO4 Battery",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Bi-Directional Technology",
+    "ATC",
+    "User Settable Grid Priority",
+    "MCB Protection"
+   ],
+   "battery_energy": "9 KWh",
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "b5abbe35-425e-4d57-a05b-1caa9bf7224e",
+  "slug": "solar-pcu-10kva-mppt",
+  "name": "Solar PCU 10KVA MPPT",
+  "description": "Su-vastika Solar PCU 10KVA MPPT is a high-capacity 96V / 10KVA (8000W) unit with 40A MPPT and 215 VOC capability — suitable for large solar arrays. LCD display provides comprehensive monitoring. Designed for factories, farms and large commercial installations with significant solar capacity.",
+  "short_description": "10 KVA / 8000 W solar PCU at 96V with LCD display and 215 VOC.",
+  "price": null,
+  "category_id": "add62f6d-7f59-42dd-9caf-5881818eec53",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%2010KVA%20MPPT.webp"
+  ],
+  "specs": {
+   "voc": "215 VOC",
+   "volt": "96V",
+   "phase": "1P-1P",
+   "ups_va": "10 KVA",
+   "display": "LCD",
+   "wattage": "8000 W",
+   "features": [
+    "40A MPPT Charge Controller",
+    "LCD Display",
+    "Bluetooth/Wi-Fi App Monitoring",
+    "Bi-Directional Technology",
+    "ATC",
+    "User Settable Grid Priority",
+    "MCB Mains Protection",
+    "Built-In Isolation Transformer",
+    "Instant Changeover",
+    "Automatic Bypass"
+   ],
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "0f6a0520-fafe-4e3e-975f-a29186affb56",
+  "slug": "solar-pcu-2500-lifepo4-2-56kwh",
+  "name": "Solar PCU 2500 MPPT + LiFePO4 2.56 KWh",
+  "description": "Su-vastika 2500 MPPT BLE with LiFePO4 Battery 2.56KWh combines the 24V / 2500VA solar PCU and a 2.56KWh LiFePO4 battery. Solar-first charging with grid top-up. 400W gives 6 hours backup; 1760W gives 1 hour 20 minutes. Bluetooth/Wi-Fi monitoring, ATC, instant changeover and bi-directional technology included.",
+  "short_description": "2500 VA solar PCU with matched 2.56KWh LiFePO4 — solar-first power.",
+  "price": null,
+  "category_id": "92ebce62-17dd-496d-aef0-6b884ce5da52",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%202500%20MPPT%20%2B%20LiFePO4%202.56%20KWh.png"
+  ],
+  "specs": {
+   "voc": "50 VOC",
+   "volt": "24V",
+   "phase": "1P-1P",
+   "backup": {
+    "400W": "6 Hr",
+    "1760W": "1 Hr 20 mins"
+   },
+   "ups_va": "2500 VA",
+   "display": "LED",
+   "wattage": "1760 W",
+   "features": [
+    "40A MPPT",
+    "LiFePO4 Battery",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Bi-Directional Technology",
+    "ATC",
+    "User Settable Grid Priority",
+    "Instant Changeover",
+    "MCB Protection",
+    "Digital Warranty"
+   ],
+   "battery_energy": "2.56 KWh",
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "20676c03-e37a-4282-8b0b-db08e234eb06",
+  "slug": "pure-sine-wave-ups-atc-2000",
+  "name": "Pure Sine Wave UPS with ATC 2000",
+  "description": "Su-vastika Pure Sine Wave UPS with ATC 2000 delivers 24V / 1700VA (1300W) with ATC technology for climate-adaptive battery charging. Suitable for large homes and small offices with sensitive IT equipment.",
+  "short_description": "1700 VA / 1300 W UPS with ATC for homes and offices.",
+  "price": null,
+  "category_id": "41c13a8d-ae82-47ef-a2b1-8925a025d656",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20with%20ATC%202000.png"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "1700 VA",
+   "display": "LED",
+   "wattage": "1300 W",
+   "features": [
+    "ATC — Automatic Temperature Compensation",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "Variable Charging 2.5A–25A",
+    "Digital Warranty"
+   ],
+   "technology": "Pure Sine Wave with ATC"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "033c685d-ddc8-4a0f-9c2f-26b2d91395ca",
+  "slug": "solar-pcu-2500-mppt-ble",
+  "name": "Solar PCU 2500 MPPT BLE",
+  "description": "The Su-vastika Solar PCU 2500 MPPT BLE is a 24V / 2500VA (1760W) solar power conditioning unit with built-in 40A MPPT charge controller (50 VOC). Bi-directional technology enables intelligent sharing of charging current between PV panels and mains grid. ATC ensures optimal charging in all weather. Monitor via Bluetooth/Wi-Fi app. User-settable grid priority via USB.",
+  "short_description": "2500 VA solar PCU with 40A MPPT, BLE monitoring and bi-directional technology.",
+  "price": null,
+  "category_id": "add62f6d-7f59-42dd-9caf-5881818eec53",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%202500%20MPPT%20BLE.png"
+  ],
+  "specs": {
+   "voc": "50 VOC",
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "2500 VA",
+   "display": "LED",
+   "wattage": "1760 W",
+   "features": [
+    "40A MPPT Charge Controller",
+    "Bluetooth/Wi-Fi App Monitoring",
+    "Bi-Directional Technology",
+    "ATC — Automatic Temperature Compensation",
+    "User Settable Grid Priority via USB",
+    "4th Generation Microprocessor",
+    "Intelligent Charging from PV and Mains",
+    "MCB Mains Protection",
+    "Built-In Isolation Transformer",
+    "Instant Changeover",
+    "Automatic Bypass",
+    "Digital Warranty"
+   ],
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "2bcdb996-e2e6-4dff-8211-fc68e3789610",
+  "slug": "solar-pcu-5500-lifepo4-5-12kwh",
+  "name": "Solar PCU 5500 MPPT + LiFePO4 5.12 KWh",
+  "description": "Su-vastika 5500 MPPT BLE with LiFePO4 Battery 5.12KWh is a 48V / 5000VA (4000W) solar system with a 5.12KWh lithium battery. 1200W load gives 4 hours backup; 4000W load gives 1 hour 10 minutes. Bluetooth/Wi-Fi app, bi-directional charging and ATC built in.",
+  "short_description": "5000 VA solar PCU with 5.12KWh LiFePO4 for large solar installations.",
+  "price": null,
+  "category_id": "92ebce62-17dd-496d-aef0-6b884ce5da52",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%205500%20MPPT%20%2B%20LiFePO4%205.12%20KWh.webp"
+  ],
+  "specs": {
+   "voc": "100 VOC",
+   "volt": "48V",
+   "phase": "1P-1P",
+   "backup": {
+    "1200W": "4 Hr",
+    "2000W": "2 Hr 25 mins",
+    "4000W": "1 Hr 10 mins"
+   },
+   "ups_va": "5000 VA",
+   "display": "LED",
+   "wattage": "4000 W",
+   "features": [
+    "40A MPPT",
+    "LiFePO4 Battery",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Bi-Directional Technology",
+    "ATC",
+    "User Settable Grid Priority",
+    "Instant Changeover",
+    "MCB Protection",
+    "Digital Warranty"
+   ],
+   "battery_energy": "5.12 KWh",
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "d0cded90-5397-4e4f-b9db-6eff3209c6d7",
+  "slug": "solar-pcu-5500-mppt-ble",
+  "name": "Solar PCU 5500 MPPT BLE",
+  "description": "Su-vastika Solar PCU 5500 MPPT BLE delivers 48V / 5000VA (4000W) with 40A MPPT controller and 100 VOC open circuit voltage support. Ideal for large homes and commercial establishments looking to maximise solar utilisation. Bi-directional charging from both PV and grid with intelligent priority management.",
+  "short_description": "5000 VA solar PCU with 40A MPPT, 100 VOC and BLE/Wi-Fi monitoring.",
+  "price": null,
+  "category_id": "add62f6d-7f59-42dd-9caf-5881818eec53",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Solar%20PCU%205500%20MPPT%20BLE.png"
+  ],
+  "specs": {
+   "voc": "100 VOC",
+   "volt": "48V",
+   "phase": "1P-1P",
+   "ups_va": "5000 VA",
+   "display": "LED",
+   "wattage": "4000 W",
+   "features": [
+    "40A MPPT Charge Controller",
+    "Bluetooth/Wi-Fi App Monitoring",
+    "Bi-Directional Technology",
+    "ATC",
+    "User Settable Grid Priority via USB",
+    "4th Generation Microprocessor",
+    "MCB Mains Protection",
+    "Built-In Isolation Transformer",
+    "Instant Changeover",
+    "Automatic Bypass",
+    "Digital Warranty"
+   ],
+   "solar_charge_controller": "40 Amp MPPT"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "369b7421-b508-4448-be43-c1a1f15ca51c",
+  "slug": "bess-1p1p-10kva-9kwh",
+  "name": "ESS 10KVA / 9KWh (1P-1P)",
+  "description": "Su-vastika Battery Energy Storage System 10KVA / 9KWh (1P-1P) provides 90V / 10KVA with 8KW output and 9KWh lithium battery. At 2000W load gives over 4 hours backup. LCD display, intelligent BMS, zero maintenance and remote monitoring. Ideal for homes with solar wanting to store daytime generation for evening use.",
+  "short_description": "Single-phase 10KVA / 9KWh BESS for homes and small businesses.",
+  "price": null,
+  "category_id": "6354c2cc-7139-410f-a1cb-ef341badc5a4",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/ESS%2010KVA%20%209KWh%20%281P-1P%29.jpg"
+  ],
+  "specs": {
+   "type": "ESS/BESS",
+   "volt": "90V",
+   "phase": "1P-1P",
+   "backup": {
+    "2000W": "4+ Hr",
+    "8000W": "~1 Hr"
+   },
+   "ups_va": "10 KVA",
+   "display": "LCD",
+   "wattage": "8 KW",
+   "features": [
+    "LCD Display",
+    "Smart LiFePO4 Battery",
+    "Intelligent BMS",
+    "Remote Monitoring",
+    "Zero Maintenance",
+    "Scalable Storage"
+   ],
+   "battery_energy": "9 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "bfa9426c-ec8c-432e-9378-e39e643ef1dd",
+  "slug": "bess-1p1p-15kva-18kwh",
+  "name": "ESS 15KVA / 18KWh (1P-1P)",
+  "description": "Su-vastika Battery Energy Storage System 15KVA / 18KWh (1P-1P) operates at 180V / 15KVA with 12KW output and 18KWh lithium battery. Provides over 1 hour 25 minutes at full 12KW load. Designed for medium commercial establishments, hotels and businesses looking to reduce grid dependence and stabilise power.",
+  "short_description": "Single-phase 15KVA / 18KWh BESS for medium commercial use.",
+  "price": null,
+  "category_id": "6354c2cc-7139-410f-a1cb-ef341badc5a4",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/ESS%2015KVA%20%2018KWh%20%281P-1P%29.png"
+  ],
+  "specs": {
+   "type": "ESS/BESS",
+   "volt": "180V",
+   "phase": "1P-1P",
+   "ups_va": "15 KVA",
+   "display": "LCD",
+   "wattage": "12 KW",
+   "features": [
+    "LCD Display",
+    "Smart LiFePO4 Battery",
+    "Intelligent BMS",
+    "Remote Monitoring",
+    "Zero Maintenance",
+    "Generator Compatible"
+   ],
+   "battery_energy": "18 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "4f8f0a01-1e94-465e-9c32-eadd02aad19e",
+  "slug": "bess-3p3p-15kva-18kwh",
+  "name": "BESS 15KVA / 18KWh (3P-3P)",
+  "description": "Su-vastika BESS 15KVA / 18KWh (3P-3P) operates at 180V three-phase with 15KVA / 12KW and 18KWh lithium battery. Provides 1 hour 30 minutes backup at full 12KW three-phase load. For factories, data centres and large commercial buildings.",
+  "short_description": "Three-phase 15KVA / 18KWh BESS for heavy commercial use.",
+  "price": null,
+  "category_id": "a81ee953-bc9d-4690-9339-8998583c6639",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/BESS%2015KVA%20%2018KWh%20%283P-3P%29.png"
+  ],
+  "specs": {
+   "type": "BESS",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "backup": {
+    "12000W": "1 Hr 30 mins"
+   },
+   "ups_va": "15 KVA",
+   "display": "LCD",
+   "wattage": "12 KW",
+   "features": [
+    "Three-Phase Output",
+    "LCD Display",
+    "Smart LiFePO4 Battery",
+    "Intelligent BMS",
+    "Remote Monitoring",
+    "Generator Compatible"
+   ],
+   "battery_energy": "18 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "c3f8c293-9eb3-40df-9571-1b79d934ee84",
+  "slug": "bess-3p3p-30kva-36kwh",
+  "name": "BESS 30KVA / 36KWh (3P-3P)",
+  "description": "Su-vastika BESS 30KVA / 36KWh (3P-3P) is the flagship industrial energy storage system at 360V three-phase with 30KVA / 24KW output and 36KWh lithium battery. Provides 1 hour 30 minutes backup at full 24KW load. For large factories, industrial parks and data centres with significant three-phase power requirements.",
+  "short_description": "Three-phase 30KVA / 36KWh BESS — largest industrial storage unit.",
+  "price": null,
+  "category_id": "a81ee953-bc9d-4690-9339-8998583c6639",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/BESS%2030KVA%20%2036KWh%20%283P-3P%29.webp"
+  ],
+  "specs": {
+   "type": "BESS",
+   "volt": "360V",
+   "phase": "3P-3P",
+   "backup": {
+    "24000W": "1 Hr 30 mins"
+   },
+   "ups_va": "30 KVA",
+   "display": "LCD",
+   "wattage": "24 KW",
+   "features": [
+    "Three-Phase Output",
+    "LCD Display",
+    "Smart LiFePO4 Battery",
+    "Intelligent BMS",
+    "Remote Monitoring",
+    "Generator Compatible",
+    "Industrial Grade"
+   ],
+   "battery_energy": "36 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "395aae82-ecc6-4e00-a825-9d5114050b62",
+  "slug": "bess-3p3p-10kva-18kwh",
+  "name": "BESS 10KVA / 18KWh (3P-3P)",
+  "description": "Su-vastika Battery Energy Storage System 10KVA / 18KWh (3P-3P) is a three-phase unit at 180V / 10KVA with 8KW output and 18KWh lithium bank. Provides approximately 2 hours 15 minutes backup at full load. Designed for three-phase commercial and industrial applications.",
+  "short_description": "Three-phase 10KVA / 18KWh BESS for commercial and industrial.",
+  "price": null,
+  "category_id": "a81ee953-bc9d-4690-9339-8998583c6639",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/BESS%2010KVA%20%2018KWh%20%283P-3P%29.jpg"
+  ],
+  "specs": {
+   "type": "BESS",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "backup": {
+    "8000W": "2 Hr 15 mins"
+   },
+   "ups_va": "10 KVA",
+   "display": "LCD",
+   "wattage": "8 KW",
+   "features": [
+    "Three-Phase Output",
+    "LCD Display",
+    "Smart LiFePO4 Battery",
+    "Intelligent BMS",
+    "Remote Monitoring",
+    "Zero Maintenance",
+    "Generator Compatible"
+   ],
+   "battery_energy": "18 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "ca1d5908-1b80-4ed6-b9fd-c7800433d64f",
+  "slug": "heavy-duty-ups-10kva-1p1p",
+  "name": "Heavy Duty UPS 10KVA (IGBT) 1P-1P",
+  "description": "Su-vastika Heavy Duty UPS 10KVA (IGBT Based) 1P-1P operates at 96V / 10KVA (8KW). Compatible with lead-acid batteries. IGBT technology, built-in isolation transformer, LCD display, remote monitoring via Bluetooth/Wi-Fi, generator compatible, pure sine wave output with constant voltage and frequency. Manual maintenance bypass via rotary switch.",
+  "short_description": "Single-phase 10KVA / 8KW IGBT UPS with lead-acid battery compatibility.",
+  "price": null,
+  "category_id": "5561407d-288d-4f87-a62e-fc31dd6cd734",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2010KVA%20%28IGBT%29%201P-1P.png"
+  ],
+  "specs": {
+   "type": "Heavy Duty UPS",
+   "volt": "96V",
+   "phase": "1P-1P",
+   "ups_va": "10 KVA",
+   "battery": "Lead Acid Compatible",
+   "display": "LCD",
+   "wattage": "8 KW",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Generator Compatible",
+    "Pure Sine Wave Output",
+    "Constant Voltage & Frequency",
+    "MCB Mains Protection",
+    "Maintenance Bypass via Rotary Switch",
+    "Instantaneous Changeover"
+   ]
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "ddb3f0c8-1454-4f2c-a8e6-d195a26ee691",
+  "slug": "heavy-duty-ups-15kva-1p1p",
+  "name": "Heavy Duty UPS 15KVA (IGBT) 1P-1P",
+  "description": "Su-vastika Heavy Duty UPS 15KVA (IGBT Based) 1P-1P is rated at 180V / 15KVA (12KW). For large commercial and industrial single-phase applications. IGBT technology, isolated transformer, LCD, generator compatible and full Bluetooth/Wi-Fi monitoring.",
+  "short_description": "Single-phase 15KVA / 12KW IGBT UPS for heavy industrial loads.",
+  "price": null,
+  "category_id": "5561407d-288d-4f87-a62e-fc31dd6cd734",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2015KVA%20%28IGBT%29%201P-1P.png"
+  ],
+  "specs": {
+   "type": "Heavy Duty UPS",
+   "volt": "180V",
+   "phase": "1P-1P",
+   "ups_va": "15 KVA",
+   "battery": "Lead Acid Compatible",
+   "display": "LCD",
+   "wattage": "12 KW",
+   "features": [
+    "IGBT Technology",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Generator Compatible",
+    "Pure Sine Wave Output",
+    "MCB Mains Protection",
+    "Maintenance Bypass",
+    "Instantaneous Changeover"
+   ]
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "66bab43f-ba9f-4398-b10d-7be5b9b79ed5",
+  "slug": "heavy-duty-ups-30kva-3p3p",
+  "name": "Heavy Duty UPS 30KVA (IGBT) 3P-3P",
+  "description": "Su-vastika Heavy Duty UPS 30KVA (IGBT Based) 3P-3P operates at 360V three-phase with 30KVA / 24KW output. The highest-capacity three-phase UPS in the Su-vastika range. For data centres, large factories and industrial parks with critical three-phase power requirements.",
+  "short_description": "Three-phase 30KVA / 24KW IGBT UPS — largest three-phase unit.",
+  "price": null,
+  "category_id": "e238cf4f-83e8-4d79-9fb2-b7bc211057fc",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2030KVA%20%28IGBT%29%203P-3P.jpg"
+  ],
+  "specs": {
+   "type": "Heavy Duty UPS",
+   "volt": "360V",
+   "phase": "3P-3P",
+   "ups_va": "30 KVA",
+   "battery": "Lead Acid Compatible",
+   "display": "LCD",
+   "wattage": "24 KW",
+   "features": [
+    "IGBT Technology",
+    "Three-Phase Output",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Generator Compatible",
+    "Pure Sine Wave Output",
+    "MCB Mains Protection",
+    "Maintenance Bypass",
+    "Instantaneous Changeover"
+   ]
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "f95615b9-a91b-4de7-b39c-4ce789fd828d",
+  "slug": "heavy-duty-ups-15kva-3p3p",
+  "name": "Heavy Duty UPS 15KVA (IGBT) 3P-3P",
+  "description": "Su-vastika Heavy Duty UPS 15KVA (IGBT Based) 3P-3P delivers 180V three-phase with 15KVA / 12KW output. Handles large industrial three-phase loads — manufacturing equipment, HVAC systems, server rooms.",
+  "short_description": "Three-phase 15KVA / 12KW IGBT UPS for large industrial use.",
+  "price": null,
+  "category_id": "e238cf4f-83e8-4d79-9fb2-b7bc211057fc",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Heavy%20Duty%20UPS%2015KVA%20%28IGBT%29%203P-3P.png"
+  ],
+  "specs": {
+   "type": "Heavy Duty UPS",
+   "volt": "180V",
+   "phase": "3P-3P",
+   "ups_va": "15 KVA",
+   "battery": "Lead Acid Compatible",
+   "display": "LCD",
+   "wattage": "12 KW",
+   "features": [
+    "IGBT Technology",
+    "Three-Phase Output",
+    "Built-in Isolation Transformer",
+    "LCD Display",
+    "Bluetooth/Wi-Fi Monitoring",
+    "Generator Compatible",
+    "Pure Sine Wave Output",
+    "MCB Mains Protection",
+    "Maintenance Bypass",
+    "Instantaneous Changeover"
+   ]
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ },
+ {
+  "id": "c4fd6da0-1a20-46f4-adb1-8ac6ef1ab5cd",
+  "slug": "ups-li-2500-combo",
+  "name": "Pure Sine Wave UPS Li 2500 Combo",
+  "description": "Su-vastika Pure Sine Wave UPS Li 2500 Combo pairs a 24V / 2500VA (2000W) UPS with a 2.24KWh LiFePO4 battery bank. Handles heavy household and small office loads. The integrated lithium battery provides 6 hours at 400W or 1 hour at 2000W. Zero maintenance, instant changeover.",
+  "short_description": "2500 VA UPS + 2.24KWh LiFePO4 battery for large homes.",
+  "price": null,
+  "category_id": "37f967c4-cf51-446e-86be-493b789eb90e",
+  "images": [
+   "https://nlsmuvtvhnlczqdyfdyo.supabase.co/storage/v1/object/public/media/product-images/Pure%20Sine%20Wave%20UPS%20Li%202500%20Combo.png"
+  ],
+  "specs": {
+   "volt": "24V",
+   "phase": "1P-1P",
+   "ups_va": "2500 VA",
+   "wattage": "2000 W",
+   "features": [
+    "Matched LiFePO4 Battery",
+    "Smart BMS",
+    "Instant Changeover",
+    "Built-in Isolation Transformer",
+    "MCB Mains Protection",
+    "ATC",
+    "Zero Battery Maintenance",
+    "Fast Charge"
+   ],
+   "technology": "Pure Sine Wave + LiFePO4",
+   "battery_energy": "2.24 KWh"
+  },
+  "status": "published",
+  "created_at": "2026-05-16T06:21:45.563271+00:00",
+  "updated_at": "2026-05-16T06:21:45.563271+00:00"
+ }
+]
